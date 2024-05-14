@@ -16,7 +16,7 @@ Welcome to the Airbnb Clone, a full-stack web application built with Next.js 14,
 - Supabase: An open-source Firebase alternative with real-time GraphQL capabilities.
 - Prisma: A modern database toolkit for Node.js and TypeScript applications.
   
-**Features**
+**FEATURES**
 
 Authentication:
 - Kinde Authentication: Secure user authentication with Kinde, ensuring seamless and secure access to the platform.
